@@ -1,0 +1,14 @@
+# Activación Autónoma
+
+**Bienvenido al sistema de hosting autónomo desde Paraguay.**
+
+## 🛠️ Pasos para activar tu módulo
+
+1. Clona este repositorio
+2. Ajusta tus variables en `ferrocarril.json`
+3. Conecta a Railway y despliega
+4. Comparte tu testimonio en `LÉAME.md`
+
+## 📣 Testimonios
+
+> “Activé mi sistema desde el celular, sin depender de nadie.” — Marcos, fundador
