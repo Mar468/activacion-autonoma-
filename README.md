@@ -1,52 +1,65 @@
-# activacion-autonoma-
-“Sistema de hosting autónomo desplegado desde Paraguay, sin plataformas externas.”
-# Activación Autónoma: Hosting desde iPhone sin Vercel ni Netlify
+# 🌐 Activación Autónoma desde Paraguay
 
-Este repositorio representa el primer nodo de un sistema de hosting autónomo, activado desde Paraguay 🇵🇾, sin escritorio, sin plataformas externas, y completamente desde un iPhone. Es una prueba viva de que la autonomía digital no es una promesa, sino una práctica activable.
+**Sistema de hosting autónomo, desplegado sin plataformas externas.**  
+**Activable 100% desde iPhone.**  
+**Diseñado para creadores que convierten cada paso técnico en legado.**
 
-## 🚀 Propósito
+---
 
-Demostrar que es posible activar, desplegar y documentar sistemas funcionales desde un dispositivo móvil, utilizando herramientas gratuitas, flujos táctiles y pensamiento pionero. Este proyecto no busca perfección técnica, sino materialización rápida y testimonio público.
+## 🧭 Propósito
 
-## 🧠 Filosofía
+Este módulo nace desde Paraguay para demostrar que la autonomía digital no requiere permisos, plataformas ni presupuestos.  
+Cada activación es un acto de independencia, una historia que merece ser contada.
 
-- **Autonomía real**: Si no puedes activarlo desde tu bolsillo, no es tuyo.
-- **Legado activable**: Cada línea de código debe poder ser replicada por otro creador.
-- **Documentación emocional**: No solo explico lo que hice, explico por qué importa.
-- **Orgullo paraguayo**: Este sistema fue activado desde Capiatá, como acto de soberanía digital.
+---
 
-## 🔧 Stack utilizado
+## ⚙️ Activación desde tu móvil
 
-- GitHub (repositorio y versionado)
-- Railway (deploy automático desde repo)
-- Cloudflare (DNS y HTTPS gratuito)
-- iPhone (como única herramienta de ejecución)
+1. **Clona el repositorio**  
+   Desde GitHub Mobile o Termux:  
+   `git clone https://github.com/mar468/activacion-autonoma.git`
 
-## 📂 Estructura
+2. **Edita tu panel testimonial**  
+   Modifica `index.html` y `testimonio.json` con tu nombre, fecha y mensaje.
 
-- `index.html`: Landing mínima con mensaje de activación
-- `activacion.md`: Testimonio técnico y emocional del proceso
-- `README.md`: Esta cápsula de legado
-- `docs/replicacion.md`: Guía para que otros creadores activen su sistema
+3. **Despliega con GitHub Pages**  
+   Activa GitHub Pages desde la rama principal.  
+   Tu URL será: `https://mar468.github.io/activacion-autonoma`
 
-## 🧪 Cómo replicarlo
+4. **Comparte tu legado**  
+   Publica tu activación en redes con el hashtag `#ActivacionAutonomaPY`
 
-1. Clona este repositorio desde tu móvil
-2. Crea cuenta en Railway y conecta el repo
-3. Configura dominio en Cloudflare
-4. Publica tu propia landing simbólica
-5. Documenta tu activación en `activacion.md`
-6. Comparte tu testimonio en redes
+---
 
-## 🌐 Resultado
+## 🧬 Estructura del módulo
 
-Sitio funcional, con dominio propio, desplegado desde iPhone, sin escritorio, sin dependencias externas. Este es el primer nodo de un sistema distribuido de activaciones simbólicas.
+- `index.html`: Landing emocional y activadora  
+- `testimonio.json`: Archivo testimonial replicable  
+- `README.md`: Este manifiesto activador  
+- `ferrocarril.json`: Flujo simbólico de activación
 
-## 📝 Testimonio
+---
 
-> “Este sistema nació como una idea imposible: desplegar desde el bolsillo, sin ayuda, sin gasto, sin permiso. Hoy es real. Y si yo lo activé, tú también puedes.”
+## 🧱 Principios
 
-## 📣 Convocatoria
+- **Autonomía técnica**: Sin Vercel, sin Netlify, sin excusas.  
+- **Testimonio como legado**: Cada activación deja huella.  
+- **Orgullo local, impacto global**: Desde Capiatá para el mundo.
 
-Si estás en Paraguay, o en cualquier parte del mundo, y quieres activar tu propio sistema autónomo, clona este repositorio. Modifícalo. Lánzalo. Documenta tu proceso. Y conviértelo en legado.
+---
+
+## 🧑‍🚀 ¿Quieres replicarlo?
+
+Este módulo está diseñado para ser replicado por cualquier creador.  
+Solo necesitas un móvil, visión, y ganas de dejar legado.
+
+---
+
+## ✍️ Créditos
+
+Creado por [Marcos](https://github.com/mar468)  
+Fundador de MarkSpacio y Markhosting  
+Arquitecto de sistemas activables desde iPhone
+
+---
 
